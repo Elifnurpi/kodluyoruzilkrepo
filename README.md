@@ -1,3 +1,4 @@
+[patika.dev](www.patika.dev)
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyasi,bir adet de index.html barindiriyor.
 
